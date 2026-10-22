@@ -60,7 +60,7 @@
 | **HiFast** | Cross-border e-commerce storefront with geo-targeting and queue-driven processing | Laravel · PHP |
 | **AI insights pipeline** | n8n workflow that scrapes, stores and summarizes multi-source data for customers | n8n · Firecrawl · OpenRouter |
 
-➡️ Case studies on my [portfolio](https://fahad-portfolio460-one.vercel.app/).
+➡️ Case studies on my [portfolio](https://fahad-amjad.vercel.app/).
 
 ### 🧭 Experience
 
