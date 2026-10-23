@@ -72,4 +72,4 @@
 
 ### 📫 Let's connect
 
-Open to collaboration on Laravel / Vue / React projects and AI workflow automation. Reach me on [LinkedIn](https://www.linkedin.com/in/fahad-amjad-943973198).
+Open to collaboration on Laravel / Vue / React projects and AI workflow automation. Reach me on [LinkedIn](https://www.linkedin.com/in/fahad-amjad-khan).
